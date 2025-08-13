@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/GauravTupe0/SQL-50-Leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/GauravTupe0/SQL-50-Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/GauravTupe0/SQL-50-Leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/GauravTupe0/SQL-50-Leetcode/tree/master/1258-article-views-i) |
